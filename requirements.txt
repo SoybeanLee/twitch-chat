@@ -1,0 +1,10 @@
+yt-dlp 
+faster-whisper 
+soundfile 
+tqdm 
+bs4 
+ffmpeg-python
+matplotlib
+numpy
+pandas 
+ipywidgets

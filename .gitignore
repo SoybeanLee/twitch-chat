@@ -192,3 +192,14 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+*.DS_Store
+*.html
+*.m4a
+*.wav
+TwitchDownloaderCLI
+ffmpeg
+ffprobe
+COPYRIGHT.txt
+THIRD-PARTY-LICENSES.txt
+version.json
